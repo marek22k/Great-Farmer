@@ -1,6 +1,6 @@
 [
     {
-        "name": "Supply",
+        "name": "Food supply",
         "era": "Medieval era",
         "priorities": {
             "Neutral": 10,
@@ -49,9 +49,10 @@
                 "column": 3
             },
             {
-                "name": "Supply Complete",
+                "name": "Food supply Complete",
                 "uniques": [
-                    "[+1 Food] from each Trade Route"
+                    "[+1 Food] from each Trade Route",
+                    "[+1 Food] from each Trade Route <after discovering [Fertilizer]>"
                 ]
             }
         ]
