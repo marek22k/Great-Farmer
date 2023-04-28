@@ -1,0 +1,15 @@
+[
+    {
+		"name": "Farmyard",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"food": 6,
+		"uniques": [
+            "Great Improvement",
+            "Can also be built on tiles adjacent to fresh water",
+            "Removes removable features when built",
+            "Pillaging this improvement yields approximately [+20 Gold]",
+            "[+1 Food] <after discovering [Civil Service]>",
+            "[+1 Food] <after discovering [Fertilizer]>"
+        ]
+	}
+]

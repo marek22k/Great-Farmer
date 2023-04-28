@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Great Farmer",
+		"unitType": "Civilian",
+
+		"uniques": [
+            "Empire enters a [8]-turn Golden Age <by consuming this unit>",
+            "Can instantly construct a [Farmyard] improvement <by consuming this unit>",
+            "Great Person - [Food]", "Unbuildable", "Uncapturable"
+        ],
+
+		"movement": 2
+	}
+]

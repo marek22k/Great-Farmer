@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Supply",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 5,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Free [Great Farmer] appears",
+            "[2] population in a random city"
+        ],
+        "policies": [
+            {
+                "name": "Diet",
+                "uniques": [
+                    "[-10]% Food consumption by specialists [in all cities]",
+                    "[-5]% Food consumption by specialists [in all cities connected to capital]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Supply plan",
+                "uniques": [
+                    "[+50]% Food is carried over after population increases [in capital]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Charity",
+                "uniques": [
+                    "[+5 Food] per [1] social policies adopted"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Unit supply",
+                "requires": ["Supply plan"],
+                "uniques": [
+                    "[5] units cost no maintenance"
+                ],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Supply Complete",
+                "uniques": [
+                    "[+1 Food] from each Trade Route"
+                ]
+            }
+        ]
+    }
+]
