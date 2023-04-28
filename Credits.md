@@ -12,7 +12,7 @@ Many thanks to the people on GitHub and Discord who helped me with some problems
 
 | Picture | Author | Source |
 | --- | --- | --- |
-| Great farmer | karina | [Noun Project](https://thenounproject.com/icon/farmer-2768314/) |
+| Great farmer | karina | [Noun Project](https://thenounproject.com/icon/pickaxe-5124431/) |
 | Farmyard | Jane Pellicciotto | [Noun Project](https://thenounproject.com/icon/farm-18711/) |
 | Supply | Adrien Coquet | [Noun Project](https://thenounproject.com/icon/parcel-3884017/) |
 | Diet | ProSymbols | [Noun Project](https://thenounproject.com/icon/diet-1078952/) |
