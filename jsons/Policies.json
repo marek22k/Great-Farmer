@@ -52,7 +52,8 @@
                 "name": "Food supply Complete",
                 "uniques": [
                     "[+1 Food] from each Trade Route",
-                    "[+1 Food] from each Trade Route <after discovering [Fertilizer]>"
+                    "[+1 Food] from each Trade Route <after discovering [Fertilizer]>",
+                    "May buy [Great Farmer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
         ]
