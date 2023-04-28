@@ -11,7 +11,7 @@ ImprovementIcons/Farmyard
   orig: 100, 100
   offset: 0, 0
   index: -1
-PolicyBranchIcons/Supply
+PolicyBranchIcons/Food supply
   rotate: false
   xy: 378, 154
   size: 50, 50
